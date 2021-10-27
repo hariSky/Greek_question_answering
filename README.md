@@ -33,7 +33,7 @@ Question:
 >Πόσα πλοία έχασαν οι σύμμαχοι?
 
 Answer:
-59
+>59
 
 Automatic localization and classification of thoracic abnormalities from chest radiographs for the VinBigData Chest X-ray Abnormalities Detection Kaggle competition using <a href="https://github.com/facebookresearch/detr">Facebook DETR's detection</a>.
 
