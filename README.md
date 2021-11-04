@@ -40,7 +40,8 @@ Answer:
 
 # Training
 
-The training script is the .
+The training script is the greek_qa_bert.ipynb.
 The dataset used is a translated part of the SQUAD dataset.
 The training script performs preprocessing to extract the answer part from the transpated text.
-
+In terms of training data, I have pushed one of the QA xlsx files 'result_df_with_sentence_20000.xlsx'
+Other similar files can be created with the same fashion and be merged in order to get better results.
